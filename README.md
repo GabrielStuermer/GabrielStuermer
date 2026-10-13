@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<h1 align="center">Olá, eu sou o Luis Gabriel 👋</h1>
 
 <p align="center">
   Estudante de Engenharia de Software · Foco em Python e backend · Porto Alegre, RS 🇧🇷
