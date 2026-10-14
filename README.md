@@ -47,13 +47,6 @@
 | **Site Clic Óptica** | Site estático feito como freelance |
 ---
 
-## 📊 Estatísticas do GitHub
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielStuermer&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Vamos conversar?
 
 <p>
