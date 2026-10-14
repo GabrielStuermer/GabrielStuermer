@@ -42,7 +42,7 @@
 | **CRM** | CRM funcional para empresas, feito para o portfólio |
 | **Sistema de Cadastro de Clientes** | Aplicação em Python com interface gráfica em Tkinter |
 | **OrbitGuard** | Sistema de monitoramento ambiental |
-| **Agendamento SaaS** | Sistema de agendamento e gestão de filas para óticas e clínicas de estética |
+| **Sistema de Agendamento** | Sistema de agendamento e gestão de filas para óticas e clínicas de estética |
 | **Semáforo Inteligente** | Projeto IoT da FIAP com Arduino + ESP32 e MQTT: semáforo de pedestres com catraca |
 | **Site Clic Óptica** | Site estático feito como freelance |
 ---
